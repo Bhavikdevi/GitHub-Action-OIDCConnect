@@ -10,8 +10,8 @@
         "Condition": {
           "StringEquals": {
             "token.actions.githubusercontent.com:sub": [
-              "repo:Bhavikdevi/GitHub-Action-OIDCConnect:pull_request",
-              "repo:Bhavikdevi/GitHub-Action-OIDCConnect:ref:refs/heads/main"
+              "repo:manikanta225/GitHub-Action-OIDCConnect:pull_request",
+              "repo:manikanta225/GitHub-Action-OIDCConnect:ref:refs/heads/main"
             ],
             "token.actions.githubusercontent.com:aud": "sts.amazonaws.com"
           }
